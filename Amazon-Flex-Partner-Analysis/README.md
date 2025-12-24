@@ -4,7 +4,7 @@
 The "Gig Economy" often obscures the true cost of doing business for independent contractors. This project aims to provide a transparent, data-driven **"Day in the Life"** insight into the Amazon Flex driver/partner experience.
 
 By combining income data with precise GPS mileage and expense tracking, this analysis moves beyond top-line revenue to answer critical questions for current and potential drivers: *What should I actually expect working for Amazon Flex?* and *After gas what is the true hourly wage?*
-#note: gas costs were estimated at ($4.20/gallon) and, while my vehicle is advertised as 30 mpg (combined), actual measured efficiency during routes was 19.6 mpg. Wear and tear on vehicle was not factored in.
+#note: gas costs were estimated at ($4.20/gallon) and, while my vehicle is advertised as 30 mpg (combined), actual measured efficiency during routes was 19.6 mpg. Wear and tear on vehicle was not factored in. (please be sure to click on tableau links)
 
 ## Objectives
 The primary goal was to dissect the economics of Amazon Flex routes (3hr, 3.5hr, 4hr, 4.5hr, and 5hr blocks) to give a realistic view of the daily workload. The analysis seeks to:
@@ -40,7 +40,7 @@ I have created two distinct dashboards to analyze different aspects of the deliv
 *This dashboard visualizes the physical delivery routes, comparing mileage, cluster density, costs, labor hours, net pays, and work coverage.
 
 ![Screenshot of Map Dashboard](dashboard-map.png)
-**[👉 Click here to view the Route Map on Tableau Public](https://public.tableau.com/views/FirstHalfofAmazonDeliveryPartnerProject/DensityMapofMilesDrivenbyRoute?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+**[👉 Click here to view Route Maps on Tableau Public](https://public.tableau.com/views/FirstHalfofAmazonDeliveryPartnerProject/DensityMapofMilesDrivenbyRoute?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
@@ -48,7 +48,7 @@ I have created two distinct dashboards to analyze different aspects of the deliv
 *This dashboard breaks down the economics/key figures of the job.*
 
 ![Screenshot of Charts Dashboard](dashboard-charts.png)
-**[👉 Click here to view the Figures Sheet on Tableau Public](https://public.tableau.com/views/SecondHalfofAmazonDeliveryPartnerProject/Chart?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+**[👉 Click here to view Figures Sheets on Tableau Public](https://public.tableau.com/views/SecondHalfofAmazonDeliveryPartnerProject/Chart?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
