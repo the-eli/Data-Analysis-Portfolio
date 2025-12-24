@@ -4,7 +4,7 @@
 The "Gig Economy" often obscures the true cost of doing business for independent contractors. This project aims to provide a transparent, data-driven **"Day in the Life"** insight into the Amazon Flex driver/partner experience.
 
 By combining income data with precise GPS mileage and expense tracking, this analysis moves beyond top-line revenue to answer critical questions for current and potential drivers: *What should I actually expect working for Amazon Flex?* and *After gas what is the true hourly wage?*
-#note: gas costs were estimated at ($4.20/gallon) and, while my vehicle is advertised as 30 mpg (combined), actual measured efficiency during routes was 19.6 mpg.
+#note: gas costs were estimated at ($4.20/gallon) and, while my vehicle is advertised as 30 mpg (combined), actual measured efficiency during routes was 19.6 mpg. Wear and tear on vehicle was not factored in.
 
 ## Objectives
 The primary goal was to dissect the economics of Amazon Flex routes (3hr, 3.5hr, 4hr, 4.5hr, and 5hr blocks) to give a realistic view of the daily workload. The analysis seeks to:
