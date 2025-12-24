@@ -47,7 +47,7 @@ I have created two distinct dashboards to analyze different aspects of the deliv
 ### 2. Formal Key Work Figures Sheets
 *This dashboard breaks down the economics/key figures of the job.
 
-![Screenshot of Financial Dashboard](dashboard-charts.png)
+![Screenshot of Charts Dashboard](dashboard-charts.png)
 **[👉 Click here to view the Figures Sheet on Tableau Public](https://public.tableau.com/views/SecondHalfofAmazonDeliveryPartnerProject/Chart?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
