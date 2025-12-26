@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project represents a personal milestone: **My first attempt at building a Machine Learning model completely within a Cloud Data Warehouse.**
 
-To challenge myself technically, I ingested the massive "Amazon US Customer Reviews" dataset (~54GB, 37 categories) into **Google BigQuery**. This dataset contains over two decades of user feedback, spanning from **June 1995 to August 2015**. My goal was not just to analyze the data, but to engineer a full pipeline—from answering ad-hoc "stakeholder" questions to training a Boosted Tree Regressor using only SQL.
+To challenge myself technically, I ingested the massive "Amazon US Customer Reviews" dataset (~54GB, 37 categories) into **Google BigQuery**. This dataset contains over two decades of user feedback, spanning from **June 1995 to August 2015**.  While the data itself is over 10 years old, it still possesses insights into hypothetical questions for that timeline. My goal was not just to analyze the data, but to engineer a full pipeline—from answering ad-hoc "stakeholder" questions to training a Boosted Tree Regressor using only SQL.
 
 ## 🎯 Objectives
 * **Handle Big Data:** Work with a dataset (54GB) too large for standard local memory, utilizing cloud infrastructure.
