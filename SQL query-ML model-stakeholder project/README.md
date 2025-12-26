@@ -95,7 +95,7 @@ The product's **Category** was by far the strongest predictor (Importance: 378),
 ## 🚀 Future Improvements
 While this project established a functional ML pipeline in the cloud, the R² score (0.163) indicates that star ratings are driven by more than just keyword counts. To improve model performance in V2, I would:
 * **Upgrade NLP:** Move beyond simple "Bag of Words" (Regex) to **Text Embeddings** (using a pre-trained model like BERT or TensorFlow Hub) to capture context, sarcasm, and nuance.
-* **Expand Features:** Incorporate "Reviewer History" (do they always give 1 star?) and "Price Point" to see if expectations scale with cost. I have 'customer_id' in the data i used.
+* **Expand Features:** Incorporate "Reviewer History" (do they always give 1 star?) and "Price Point" to see if expectations scale with cost. I have 'customer_id' in the data I used.
 
 ## 🛠️ Tech Stack & Tools
 * **Cloud Data Warehouse:** Google BigQuery
