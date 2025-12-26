@@ -23,7 +23,7 @@ To simulate a real-world business environment, I treated my family members as st
     * **Ranking:** Ranked products by the volume of these "value-confirming" reviews rather than raw star rating alone.
 * **Key Finding:** The **Schwinn Street Comfort Tire** was the clear winner, with the highest volume of verified "value" mentions (28) while maintaining a high 4.82★ rating.
 
-![Top 15 Bike Tires Chart](images/father-bike-analysis.png)
+![Top 15 Bike Tires Chart](father-bike-analysis.png)
 
 ### 👶 Stakeholder 2: The Sister (Seasonality & Trends)
 * **The Request:** *"I buy a lot of baby clothes. Is there a specific time of year where prices/activity seem to drop?"*
@@ -34,7 +34,7 @@ To simulate a real-world business environment, I treated my family members as st
     * **Validation:** Plotted this "Deal Percentage" over a 12-month cycle to find statistically significant spikes in value-related discussion.
 * **Key Finding:** **August** is the clear winner for deals (likely correlating with End-of-Summer/Back-to-School sales), with the highest density (0.86%) of reviews mentioning discounts. July was 2nd followed by May and June. Recommended buying season for baby clothes points towards summer.
 
-![Seasonality Chart](images/sister-seasonality.png)
+![Seasonality Chart](sister-seasonality.png)
 
 ### 💄 Stakeholder 3: The Partner (Product Discovery)
 * **The Request:** *"I want to try new makeup/beauty products, but I'm overwhelmed by the options. What are the safest 'sure bets' to try?"*
@@ -43,7 +43,7 @@ To simulate a real-world business environment, I treated my family members as st
     * **Risk Analysis:** Calculated the Standard Deviation (`STDDEV`) of ratings. A high average rating with a *low* standard deviation indicates a "safe bet" (consistent quality), whereas high variance implies a "hit-or-miss" product.
 * **Key Finding:** **Philips** and **Braun** emerged as the "Safest Bets," boasting high review volumes and ratings >4.2 with low variance, making them statistically reliable purchases.  Beauty is very subjective so the top 15 results/brands are listed.
 
-![Beauty Brands Chart](images/partner-beauty-brands.png)
+![Beauty Brands Chart](partner-beauty-brands.png)
 
 ---
 ## 🧠 Part 2: My First Machine Learning Model
