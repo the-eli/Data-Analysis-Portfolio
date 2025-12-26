@@ -71,7 +71,7 @@ Since raw text cannot be fed directly into a regression model, I had to get crea
 ```
 
 ### 📊 Key Learnings & Results
-As this was my first ML project, the results provided a lesson in the difference between "textbook" data and "real world" human behavior.  I also learned alot and want to build upon.
+As this was my first ML project, the results provided a lesson in the difference between "textbook" data and "real world" human behavior.  I also learned a lot and want to build upon.
 
 **1. The "Vine Voice" Surprise**
 My model found that **Vine (Paid) Reviewers** actually predicted *lower* ratings (3.92) than standard customers (4.01). This contradicts the common myth that paid reviewers always leave inflated 5-star feedback to please sellers.
