@@ -8,7 +8,7 @@ Unlike static analysis projects that use stale CSVs, I built an **automated end-
 ## 🏗️ The Architecture
 I designed a "Hybrid Cloud/Local" architecture to ensure the data is always fresh without needing complex database infrastructure for the end-user.
 
-![Architecture Diagram](images/architecture-diagram.png)
+![Architecture Diagram](images/architecture-diagram.jpg)
 
 * **Source:** `UFC.com` Athlete Database
 * **Ingestion:** Python (`BeautifulSoup`, `Requests`) running in a Docker container.
