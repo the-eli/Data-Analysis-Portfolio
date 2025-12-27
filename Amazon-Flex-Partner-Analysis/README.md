@@ -37,7 +37,7 @@ This dataset is original, primary data collected personally over a 9-month perio
 I have created two distinct dashboards to analyze different aspects of the delivery process. Click the links below to interact with the live data.
 
 ### 1. Geospatial Route Analysis
-*This dashboard visualizes the physical delivery routes, comparing mileage, cluster density, costs, labor hours, net pays, and work coverage.  I start driving from the amazon warehouse in Irvine and finish driving when I arrive home in Anaheim.
+*This dashboard visualizes the physical delivery routes, comparing mileage, cluster density, costs, labor hours, net pay/hr, and work coverage.  I start driving from the amazon warehouse in Irvine and finish driving when I arrive home in Anaheim.
 
 ![Screenshot of Map Dashboard](dashboard-map.png)
 **[👉 Click here to view Route Maps on Tableau Public](https://public.tableau.com/views/FirstHalfofAmazonDeliveryPartnerProject/DensityMapofMilesDrivenbyRoute?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
