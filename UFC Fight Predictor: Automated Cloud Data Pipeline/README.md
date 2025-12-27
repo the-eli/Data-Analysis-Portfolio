@@ -44,7 +44,7 @@ I created a local Python utility (`fetcher.py`) that acts as the bridge between 
 * **Data Cleaning Logic:** The regression model requires strict numeric inputs. The fetcher identifies `N/A` or `null` values (common for debut fighters) and replaces them with `0` to prevent calculation errors.
 
 **Data Transformation (Before vs. After):**
-*Raw data from cloud (Left) vs. Cleaned data for Regression (Right)*
+*Raw data from cloud (Left) vs. Cleaned data for model (Right)*
 <p float="left">
   <img src="raw_data_preview.png" width="45%" />
   <img src="clean_data_preview.png" width="45%" /> 
