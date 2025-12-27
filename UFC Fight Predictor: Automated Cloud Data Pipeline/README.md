@@ -110,4 +110,4 @@ I built a user-friendly "Face-Off" interface in Excel.
 * **Cloud:** Google Cloud Platform (Cloud Storage, Cloud Run/Scheduler)
 * **Excel:** Advanced Formulas, Pivot Tables, Linear Regression
 * **Data Engineering:** Cron Scheduling, ETL Pipeline construction
-  
+* **Data Source:** [UFC Complete Dataset (1996-2024) - Kaggle](https://www.kaggle.com/datasets/maksbasher/ufc-complete-dataset-all-events-1996-2024)  
