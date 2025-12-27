@@ -101,6 +101,7 @@ I built a user-friendly "Face-Off" interface in Excel.
 
 ## 🚀 Future Improvements
 * **Full Cloud Migration:** Automate the 'fetcher' task
+* **scrape data for height, reach, age. These figures are not statistically signifcant in win probability but including in model will make it look and feel complete.
 * **Betting Odds Integration:** For fun scrape live betting odds to compare my model's probability against Vegas betting odds
 
 ## 🛠️ Tech Stack
