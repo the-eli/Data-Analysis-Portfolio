@@ -6,7 +6,7 @@ This project represents a personal milestone: **My first attempt at building a M
 To challenge myself technically, I ingested the massive "Amazon US Customer Reviews" dataset (~54GB, 37 categories) into **Google BigQuery**. This dataset contains over two decades of user feedback, spanning from **June 1995 to August 2015**.  While the data itself is over 10 years old, it still possesses insights into hypothetical questions for that timeline. My goal was not just to analyze the data, but to engineer a full pipeline—from answering ad-hoc "stakeholder" questions to training a Boosted Tree Regressor using only SQL.
 
 ## 🎯 Objectives
-* **Handle Big Data:** Work with a dataset (54GB) too large for standard local memory, utilizing cloud infrastructure.
+* **Handle Big Data:** Work with a dataset (54GB/ 102 million rows) too large for standard local memory, utilizing cloud infrastructure.
 * **Simulate Stakeholder Requests:** Interview family members to gather "business questions" and translate them into SQL queries.
 * **Build an ML Model:** Create, train, and evaluate a regression model directly inside BigQuery (BQML) to predict product ratings.
 
