@@ -102,6 +102,6 @@ While this project established a functional ML pipeline in the cloud, the R² sc
 * **Machine Learning:** BigQuery ML (Boosted Tree Regressor)
 * **Query Language:** Standard SQL (Common Table Expressions, Regex, Window Functions)
 * **Visualization:** Python (Matplotlib, Pandas) inside a Docker Container
-* **Data Source:** Amazon US Customer Reviews (Kaggle - 54GB)/ source: https://www.kaggle.com/datasets/cynthiarempel/amazon-us-customer-reviews-dataset
+* **Data Source:** [Amazon US Customer Reviews (Kaggle - 54GB)](https://www.kaggle.com/datasets/cynthiarempel/amazon-us-customer-reviews-dataset)
 
 ---
