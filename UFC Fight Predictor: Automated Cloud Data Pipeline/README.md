@@ -8,7 +8,7 @@ Unlike static analysis projects that use stale CSVs, I built an **automated end-
 ## 🏗️ The Architecture
 I designed a "Hybrid Cloud/Local" architecture to ensure the data is always fresh without needing complex database infrastructure for the end-user.
 
-![Architecture Diagram](images/architecture-diagram.jpg)
+![Architecture Diagram](architecture-diagram.jpg)
 
 * **Source:** `UFC.com` Athlete Database
 * **Ingestion:** Python (`BeautifulSoup`, `Requests`) running in a Docker container.
@@ -36,7 +36,7 @@ first_url = '[https://www.ufc.com/athletes/all?gender=All&search=&page=](https:/
 
 **Automation Evidence:**
 *The `ufc-scraper-job` successfully executing the Sunday morning data fetch.*
-![Cloud Run Job Log](images/cloud_job_log.png)
+![Cloud Run Job Log](cloud_job_log.png)
 
 ### 2. The Fetcher (Local Integration)
 I created a local Python utility (`fetcher.py`) that acts as the bridge between the Cloud and Excel. It connects to the `ufc-data-fifth-handbook` bucket, downloads the raw data, and sanitizes it for the model.
@@ -46,8 +46,8 @@ I created a local Python utility (`fetcher.py`) that acts as the bridge between 
 **Data Transformation (Before vs. After):**
 *Raw data from cloud (Left) vs. Cleaned data for Regression (Right)*
 <p float="left">
-  <img src="images/raw_data_preview.png" width="45%" />
-  <img src="images/clean_data_preview.png" width="45%" /> 
+  <img src="raw_data_preview.png" width="45%" />
+  <img src="clean_data_preview.png" width="45%" /> 
 </p>
 
 ```python
@@ -76,7 +76,7 @@ I built a **Regression-based fight outcome model** using historical fight data s
 **Statistical Validation:**
 *I performed an ANOVA analysis to ensure the variables selected were statistically significant predictors of victory.*
 * **R² Score:** 0.34 (Explaining ~34% of variance in outcomes, a strong signal for human sports data).
-![Regression Stats](images/regression_stats.png)
+![Regression Stats](regression_stats.png)
 
 **Key Features Analyzed:**
 * Significant Strikes Landed per Minute (SLPM)
@@ -95,7 +95,7 @@ I built a user-friendly "Face-Off" interface in Excel.
 * Justin Gaethje (Red)* vs. *Paddy Pimblett(Blue)* an upcoming fight on January 24, 2026
 * **Model Prediction:** Paddy Pimblett wins (**81.13%** Probability) 
 
-![Excel Dashboard Interface](images/excel-dashboard.png)
+![Excel Dashboard Interface](excel-dashboard.png)
 
 ---
 
@@ -104,7 +104,7 @@ I built a user-friendly "Face-Off" interface in Excel.
 * **Betting Odds Integration:** For fun scrape live betting odds to compare my model's probability against Vegas betting odds
 
 ## 🛠️ Tech Stack
-![Data Stack](images/data_stack.png)
+![Data Stack](data_stack.png)
 
 * **Python:** BeautifulSoup4, Pandas, Google-Cloud-Storage, Tqdm
 * **Cloud:** Google Cloud Platform (Cloud Storage, Cloud Run/Scheduler)
