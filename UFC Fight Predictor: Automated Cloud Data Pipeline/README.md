@@ -95,7 +95,7 @@ I built a user-friendly "Face-Off" interface in Excel.
 * Justin Gaethje (Red)* vs. *Paddy Pimblett(Blue)* an upcoming fight on January 24, 2026
 * **Model Prediction:** Paddy Pimblett wins (**81.13%** Probability) 
 
-![Excel Dashboard Interface](excel-dashboard.png)
+![Excel Dashboard Interface](excel-dashboard.png)   ![Excel Dashboard Interface](excel-dashboard-2.png)
 
 ---
 
