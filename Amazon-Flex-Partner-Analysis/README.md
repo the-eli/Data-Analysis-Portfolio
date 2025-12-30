@@ -7,7 +7,7 @@ By combining income data with precise GPS mileage and expense tracking, this ana
 #note: gas costs were estimated at ($4.20/gallon) and, while my vehicle is advertised as 30 mpg (combined), actual measured efficiency during routes was 19.6 mpg. Wear and tear on vehicle was not factored in. (please be sure to click on tableau links)
 
 ## Objectives
-The primary goal was to dissect the economics of Amazon Flex routes (3hr, 3.5hr, 4hr, 4.5hr, and 5hr blocks) to give a realistic view of the daily workload. The analysis seeks to:
+The primary goal was to dissect the economics of Amazon Flex routes (3hr, 3.5hr, 4hr, 4.5hr, and 5hr blocks from $23-25 an hour) to give a realistic view of the daily workload. The analysis seeks to:
 * **Visualize the "Day in the Life":** Map actual routes to show where drivers go and what are the accompanying figures (block pays, duration, gas costs, miles driven, frequency/probability of being sent west, east, or staying central to the warehouse.)
 * **Determine True Earnings:** Calculate **Net Pay per Hour** after accounting for fuel costs.
 * **Analyze Patterns:** Analyze figures in all delivery areas, and then create line/bar/summary tables.
