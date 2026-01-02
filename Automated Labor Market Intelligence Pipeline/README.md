@@ -39,7 +39,7 @@ To ensure maximum coverage without managing 5+ separate accounts, the backend le
 ## 🚧 Current Development: The "AI Agent" Phase
 *Status: In Active Implementation*
 
-With the data pipeline now stable, I am currently integrating **Google Gemini 2.5 Flash** to transform this tool from a "Aggregator" into an autonomous "Agent."
+With the data pipeline now stable, I am currently integrating **Google Gemini 2.5 Flash** to transform this tool from a "Aggregator" into an autonomous "Agent."  In layman's term I can have an AI agent that reports back compatibility or "work fit" of work roles.  This way I do less thinking and can focus on other things.
 
 **The Goal:**
 Instead of me reading the job descriptions, the Agent will:
