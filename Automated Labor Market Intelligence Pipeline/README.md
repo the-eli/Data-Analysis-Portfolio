@@ -5,7 +5,8 @@
 
 **A Python-based data pipeline that automates the daily job search workflow.**
 
-![App UI](AI_UI.png)
+![App UI](AI_UI2.png)
+![App UI](AI_UI3.png)
 *(Current Work in Progress UI)*
 
 ## 📖 The Business Problem
