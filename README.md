@@ -10,9 +10,8 @@
 ---
 
 ## 🛠️ Combined Technical Skills
-* **Languages:** Python (Pandas, BeautifulSoup), SQL (Standard, BigQuery ML), VBA.
-* **Cloud & Engineering:** Google Cloud Platform (Storage, Cloud Run, BigQuery), Docker, Automated Cron Jobs.
-* **Visualization & Tools:** Tableau, Jupyter Notebooks (Matplotlib/Seaborn), Excel (Advanced Modeling).
-
+* **Languages & Frameworks:** Python (**Streamlit**, Pandas, BeautifulSoup), SQL (Standard, BigQuery ML), VBA.
+* **Cloud, AI & Engineering:** Google Cloud Platform (Storage, Cloud Run, BigQuery), **Google Gemini AI SDK**, **REST API Integration**, Docker, **ETL Pipelines**.
+* **Visualization & Tools:** Tableau, Jupyter Notebooks (Matplotlib/Seaborn), **Git/GitHub**, Excel (Advanced Modeling).
 ---
 *Created by [Elias N.]*
