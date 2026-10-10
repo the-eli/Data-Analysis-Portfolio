@@ -6,12 +6,14 @@
 | **2. [Amazon Big Data & ML Challenge](./SQL%20query-ML%20model-stakeholder%20project)** | **Cloud ML & Big Data:** Ingested **54GB** of reviews (1995-2015) into BigQuery. Built a **Boosted Tree Regressor** using SQL; visualized findings via Jupyter Notebooks. | ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=google-bigquery&logoColor=white) ![BigQuery](https://img.shields.io/badge/-BigQuery-669DF6?logo=google-cloud&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) |
 | **3. [UFC Fight Predictor & Pipeline](./UFC%20Fight%20Predictor%3A%20Automated%20Cloud%20Data%20Pipeline)** | **Automated Data Engineering:** Scrapes weekly stats via Cloud Run, stores in GCS, and feeds a custom Regression model to predict fight outcomes. | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white) |
 | **4. [API/scraper/ AI Analyst: Job Market Agent](./Automated%20Labor%20Market%20Intelligence%20Pipeline)** | **Automated Labor Market Intelligence:** An automated ETL pipeline that aggregates job data via SerpApi/Adzuna API/ linkedin scraper and uses **Google Gemini AI**. *(Work in Progress)* | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white) ![Gemini AI](https://img.shields.io/badge/-Gemini_AI-8E75B2?logo=google-bard&logoColor=white) |
-| **5. IV instrument Insight** | **school project: currently working on**
+| **5. [Health Insurance Cost Model](./insurance-charges-analysis)** | **Data Cleaning & Predictive Modeling:** Cleaned 9,392 messy records (duplicates, decimal typos, filled-in values) down to 1,334 real policyholders, then compared 10 regression models to predict medical charges. Smokers cost 3.6x more; for smokers, obesity nearly doubles costs. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) |
+
 ---
 
 ## 🛠️ Combined Technical Skills
 * **Languages & Frameworks:** Python (Streamlit, Pandas, BeautifulSoup), SQL (Standard, BigQuery ML), VBA.
 * **Cloud, AI & Engineering:** Google Cloud Platform (Storage, Cloud Run, BigQuery), Google Gemini AI SDK, REST API Integration, Docker, ETL Pipelines.
 * **Visualization & Tools:** Tableau, Jupyter Notebooks (Matplotlib/Seaborn), Excel (Advanced Modeling).
+
 ---
 *Created by [Elias N.]*
